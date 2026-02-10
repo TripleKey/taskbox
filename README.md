@@ -111,3 +111,16 @@ If you encounter an issue with the template, we encourage you to open an issue i
 
 1. Read our introductory tutorial at [Learn Storybook](https://storybook.js.org/tutorials/intro-to-storybook/react/en/get-started/).
 2. See our official documentation at [Storybook](https://storybook.js.org/).
+
+✔ Storybook published
+We found 3 components with 9 stories.
+ℹ View your Storybook at https://698aed08621aabc166217746-gsvaqdopfq.chromatic.com/
+
+ℹ Speed up Continuous Integration
+Your project is linked to GitHub so Chromatic will report results there.
+This means you can add the option `with: exitOnceUploaded: true` to your workflow to skip waiting for build results.
+Read more here: https://www.chromatic.com/docs/configure/
+
+✔ Build passed. Welcome to Chromatic!
+We found 3 components with 9 stories and took 9 snapshots.
+ℹ Please continue setup at https://www.chromatic.com/setup?appId=698aed08621aabc166217746
